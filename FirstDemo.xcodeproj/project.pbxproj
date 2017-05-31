@@ -193,7 +193,6 @@
 				TargetAttributes = {
 					F50B339C1EDE43C80051D92D = {
 						CreatedOnToolsVersion = 8.3.2;
-						DevelopmentTeam = 8XDCL7856F;
 						ProvisioningStyle = Automatic;
 					};
 					F50B33B01EDE43C80051D92D = {
@@ -417,7 +416,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8XDCL7856F;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = FirstDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shenyi.FirstDemo;
@@ -430,7 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 8XDCL7856F;
+				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = FirstDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.shenyi.FirstDemo;
